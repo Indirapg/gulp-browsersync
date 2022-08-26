@@ -1,7 +1,7 @@
 {
   "name": "gulp-browsersync",
   "version": "1.0.0",
-  "description": "",
+  "description": "Source code for the Browsersync + Gulp tutorial on Coder Coder.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,12 @@
     "gulp-terser": "^1.4.0",
     "postcss": "^8.1.2"
   },
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodercoder/gulp-browsersync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thecodercoder/gulp-browsersync/issues"
+  },
+  "homepage": "https://github.com/thecodercoder/gulp-browsersync#readme"
 }
